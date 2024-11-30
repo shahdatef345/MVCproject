@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\areas\\student\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\areas\\student\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130014550_initialcolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130013620_hgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\dataaccess\\repository\\ireposetory\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\ireposetory\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\onlinecenter\\onlinecenter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\onlinecenter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|e:\\mvcproject\\online_center-main\\online_center-main\\onlinecenter\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T03:38:20.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T03:12:14.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAKEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:56:02.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T02:55:57.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineCenter\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineCenter\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T02:16:46.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "OnlineCenter\\ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "OnlineCenter\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-30T02:08:30.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Program.cs",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Program.cs",
+              "RelativeToolTip": "OnlineCenter\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:24:04.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAHgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T03:40:55.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Student\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineCenter\\Areas\\Student\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\Areas\\Student\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineCenter\\Areas\\Student\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:15:42.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:34:03.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241130014550_initialcolumns.cs",
+              "DocumentMoniker": "E:\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130014550_initialcolumns.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130014550_initialcolumns.cs",
+              "ToolTip": "E:\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130014550_initialcolumns.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130014550_initialcolumns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:45:51.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:34:28.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241130013620_hgf.cs",
+              "DocumentMoniker": "E:\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130013620_hgf.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130013620_hgf.cs",
+              "ToolTip": "E:\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130013620_hgf.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\MVCpro\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Migrations\\20241130013620_hgf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:36:21.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:29:16.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Repository\\IReposetory\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\IReposetory\\IBookRepository.cs",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\Repository\\IReposetory\\IBookRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\IReposetory\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:26:46.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineCenter\\appsettings.json",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\appsettings.json",
+              "RelativeToolTip": "OnlineCenter\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T01:21:02.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OnlineCenter.csproj",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\OnlineCenter.csproj",
+              "RelativeDocumentMoniker": "OnlineCenter\\OnlineCenter.csproj",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\OnlineCenter\\OnlineCenter.csproj",
+              "RelativeToolTip": "OnlineCenter\\OnlineCenter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T01:13:14.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "E:\\MVCproject\\Online_Center-main\\Online_Center-main\\OnlineCenter\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T01:13:03.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

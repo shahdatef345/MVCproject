@@ -1,0 +1,52 @@
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\bin\Debug\net8.0\Models.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\bin\Debug\net8.0\Models.pdb
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\Models.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\Models.pdb
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\Models.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\bin\Debug\net8.0\Models.pdb
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

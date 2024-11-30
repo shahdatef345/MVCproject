@@ -1,0 +1,895 @@
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.csproj.AssemblyReference.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.AssemblyInfoInputs.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.AssemblyInfo.cs
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.csproj.CoreCompileInputs.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.RazorAssemblyInfo.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.RazorAssemblyInfo.cs
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.sourcelink.json
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\appsettings.Development.json
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\appsettings.json
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.staticwebassets.runtime.json
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.exe
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.deps.json
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.runtimeconfig.json
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.pdb
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Models.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Models.pdb
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.OnlineCenter.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.build.OnlineCenter.props
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OnlineCenter.props
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OnlineCenter.props
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\scopedcss\bundle\OnlineCenter.styles.css
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\scopedcss\projectbundle\OnlineCenter.bundle.scp.css
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCe.54A4FDA1.Up2Date
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\refint\OnlineCenter.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.pdb
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.genruntimeconfig.cache
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\ref\OnlineCenter.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Humanizer.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Build.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Common.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.CodeDom.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Azure.Core.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Azure.Identity.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.ClientModel.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Memory.Data.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\DataAccess.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\DataAccess.pdb
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.MvcApplicationPartsAssemblyInfo.cs
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Utilities.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Utilities.pdb
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\appsettings.Development.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\appsettings.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.staticwebassets.runtime.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.exe
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.deps.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.runtimeconfig.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.pdb
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Azure.Core.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Azure.Identity.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Humanizer.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Build.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Common.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.ClientModel.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.CodeDom.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Memory.Data.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\DataAccess.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Models.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Utilities.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\DataAccess.pdb
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Models.pdb
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Utilities.pdb
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.csproj.AssemblyReference.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.AssemblyInfoInputs.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.AssemblyInfo.cs
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.csproj.CoreCompileInputs.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.MvcApplicationPartsAssemblyInfo.cs
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.MvcApplicationPartsAssemblyInfo.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.RazorAssemblyInfo.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.RazorAssemblyInfo.cs
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets.development.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.OnlineCenter.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.build.OnlineCenter.props
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OnlineCenter.props
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OnlineCenter.props
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets.pack.json
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\scopedcss\bundle\OnlineCenter.styles.css
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\scopedcss\projectbundle\OnlineCenter.bundle.scp.css
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCe.54A4FDA1.Up2Date
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\refint\OnlineCenter.dll
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.pdb
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.genruntimeconfig.cache
+E:\MVCpro\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\ref\OnlineCenter.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\appsettings.Development.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\appsettings.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.staticwebassets.runtime.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.exe
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.deps.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.runtimeconfig.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\OnlineCenter.pdb
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Azure.Core.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Azure.Identity.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Humanizer.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Build.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Common.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.ClientModel.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.CodeDom.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Memory.Data.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\DataAccess.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Models.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Utilities.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\DataAccess.pdb
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Models.pdb
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Utilities.pdb
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.csproj.AssemblyReference.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.AssemblyInfoInputs.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.AssemblyInfo.cs
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.csproj.CoreCompileInputs.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.MvcApplicationPartsAssemblyInfo.cs
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.MvcApplicationPartsAssemblyInfo.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.RazorAssemblyInfo.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.RazorAssemblyInfo.cs
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets.build.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets.development.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.OnlineCenter.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.build.OnlineCenter.props
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OnlineCenter.props
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OnlineCenter.props
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\staticwebassets.pack.json
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\scopedcss\bundle\OnlineCenter.styles.css
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\scopedcss\projectbundle\OnlineCenter.bundle.scp.css
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCe.54A4FDA1.Up2Date
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\refint\OnlineCenter.dll
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.pdb
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.genruntimeconfig.cache
+E:\MVCproject\Online_Center-main\Online_Center-main\OnlineCenter\OnlineCenter\obj\Debug\net8.0\ref\OnlineCenter.dll
